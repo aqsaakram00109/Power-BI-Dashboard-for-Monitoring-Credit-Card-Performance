@@ -82,9 +82,9 @@ Create a **simple, interactive dashboard** that updates every week and gives rea
 
 ## 📬 Contact
 
-**Muhammad Usman Akram**  
-ML Engineer & Data Analyst  
-📧 musman00109@gmail.com  
+**AQSA AKRAM**  
+Data Analyst  and Ai Engineer
+📧 aqsaakram00109@gmail.com  
 
 ---
 
